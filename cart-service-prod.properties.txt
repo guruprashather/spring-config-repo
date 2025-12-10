@@ -1,0 +1,2 @@
+cart.size=20
+message=Hello from PROD
